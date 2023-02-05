@@ -59,6 +59,7 @@
 ### Motivational
 - [Steve Jobs on Asking Questions](https://www.youtube.com/watch?v=zkTf0LmDqKI)
 - [Jim Simons: A Short Story of My Life and Math](https://youtu.be/CTQcLi6SpX8)
+- [Kim Emerson: Pencil Analogy](https://youtube.com/shorts/iNKcFwc_OmU?feature=share)
 
 ### PC Build & Parts
 - [How to Update Drivers, iCUE Software](https://windowsreport.com/icue-not-detecting-devices-windows-11/)
