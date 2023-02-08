@@ -48,6 +48,7 @@
 - [Trigonometry Concepts](https://www.youtube.com/watch?v=mhd9FXYdf4s)
 - [Intro to Logarithms 1](https://www.youtube.com/watch?v=ntBWrcbAhaY)
 - [Intro to Logarithms 2](https://www.youtube.com/watch?v=MEAwyRUsX2o)
+- [HS Algebra II](https://study.com/academy/course/high-school-algebra-ii.html)
 
 ### Military Science
 - [Abram Tanks](https://www.youtube.com/watch?v=SdL55HWNPRM)
